@@ -10,6 +10,6 @@
 
 - Por Golem - pierwsze wschody
 
-<img src='https://github.com/dziewonski/garden/blob/main/images/seeding-week-1.png' alt="Wschody po 1 tygodniu"/>
+<img src='https://github.com/dziewonski/garden/blob/main/images/seeding-week-1.jpg' alt="Wschody po 1 tygodniu"/>
 
 ##### 16.02.2023: 2 tydzień od wysiewu
