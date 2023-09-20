@@ -12,3 +12,6 @@
 ##### 09.2022: 10 miesięcy
 <img src='https://github.com/dziewonski/garden/blob/main/images/diary-south-2022-09.jpg' alt="Aktualizacja"/>
 
+##### 09.2023: 1 rok 10 miesięcy
+<img src='https://github.com/dziewonski/garden/blob/main/images/diary-south-2023-09.jpg' alt="Aktualizacja"/>
+
